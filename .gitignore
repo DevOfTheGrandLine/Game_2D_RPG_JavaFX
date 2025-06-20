@@ -1,0 +1,92 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+## IntelliJ IDEA
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/*.xml
+*.iws
+*.iml
+*.ipr
+
+## Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+## NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+## VS Code
+.vscode/
+
+# Операционные системы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+.LSOverride
+
+# Логи и кэш
+*.log
+*.tmp
+*.swp
+*.swo
+.cache
+
+# Папки с зависимостями
+node_modules/
+bower_components/
+vendor/
+lib/
+dist/
+build/
+
+# Файлы IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.sublime-project
+*.sublime-workspace
+
+# Компилируемые языки
+*.class
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.pyc
+__pycache__
+.classdump
+.jar
+
+# Конфигурационные файлы среды
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Результаты тестов
+coverage/
+jest-output/
+test-results/
